@@ -15,7 +15,7 @@
 
 - main.js
   - entry point of the application
-  - definitely a carry-over from C based programming
+  - definitely a carry-over from C programming (maybe earlier)
   - Seems sound reasoning because it is the main file
   - I could call it index.js which gives benefits on an import statement, but does it mean anything or benefit the story
 - main-alt.js
